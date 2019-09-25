@@ -1,18 +1,39 @@
+body {
+    background-image: url(../images/swirl_pattern.png);
+
+}
+
 header {
-
-
+    background-color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 20px 20px 0px 210.5px;
+    border-bottom: 3px solid #dddddd;
 }
 
-h1 {
-    color: blue;
-
-
+#header1 {
+    background: #4aaaa5;
+    color: #ffffff;
+    width: 240px;
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 20px;
+    display: inline-block
 }
 
-h4 {
-
-
+#header2 {
+    display: inline-block;
+    color: #cccccc;
+    margin: 16px 0px 0px 490px;
+    padding-bottom: 20px;
 }
+
+div {
+    width: 960px;
+    background-color: #ffffff;
+    margin: 20px 210.5px 100px 210.5px;
+    text-align: center;
+}
+
 
 img {
 
