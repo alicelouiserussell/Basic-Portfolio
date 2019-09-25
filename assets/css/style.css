@@ -1,6 +1,6 @@
 body {
     background-image: url(../images/swirl_pattern.png);
-
+    margin: 0px;
 }
 
 header {
@@ -8,6 +8,7 @@ header {
     font-family: 'Georgia', Times, Times New Roman, serif;
     padding: 20px 20px 0px 210.5px;
     border-bottom: 3px solid #dddddd;
+    margin-bottom: 30px;
 }
 
 #header1 {
@@ -29,13 +30,34 @@ header {
 
 div {
     width: 960px;
+    height:600px;
     background-color: #ffffff;
     margin: 20px 210.5px 100px 210.5px;
     text-align: center;
 }
 
+#aboutMe {
+    color: #4aaaa5;
+    width: 880px;
+    padding: 20px 20px 20px 0px;
+    border-bottom: 3px solid #dddddd;
+    margin: 0px 5px 0px 30px;
+    text-align: left;
+    overflow: auto;
+
+}
 
 img {
+    float: left;
+    width: 256px;
+    height: 300px;
+    margin: 30px 30px 10px 30px;
+}
 
-    
+#aboutMeContent {
+    color: #777777;
+    line-height: 2;
+    text-align: left;
+    padding: 7px 20px 20px 0px;
+    margin-left: 30px;
 }
