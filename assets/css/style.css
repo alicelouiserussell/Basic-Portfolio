@@ -61,3 +61,14 @@ img {
     padding: 7px 20px 20px 0px;
     margin-left: 30px;
 }
+
+#footer {
+    background: #666666;
+    color: #cccccc;
+    text-align: center;
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    font-size: 12px;
+    border-top: 5px solid #4aaaa5;
+}
