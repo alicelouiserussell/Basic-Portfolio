@@ -89,7 +89,7 @@ p {
     width: 45px;
 }
 
-.portfolioPic {
+.portfolioPic1 {
     width: 250px;
     height: 200px;
     padding: 40px 20px 20px 30px;
@@ -97,7 +97,7 @@ p {
     position: relative;
 }
 
-.picBanner {
+.picBanner1 {
     position: absolute;
     background: #4aaaa5;
     color: #ffffff;
@@ -106,6 +106,47 @@ p {
     height: 25px;
     margin-top: 180px;
     padding: 10px 0px 10px 0px;
+}
+
+.portfolioPic2 {
+    width: 250px;
+    height: 200px;
+    padding: 40px 20px 20px 20px;
+    float: left;
+    position: relative;
+}
+
+.picBanner2 { 
+    position: absolute;
+    background: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    width: 250px;
+    height: 25px;
+    margin-top: 180px;
+    margin-left: 320px;
+    padding: 10px 0px 10px 0px;
+}
+
+.portfolioPic3 {
+    clear: both;
+    width: 250px;
+    height: 200px;
+    display: block;
+    margin: 0px;
+    padding: 10px 20px 20px 30px;
+    position: relative;
+}
+
+.picBanner3 {
+    background: #4aaaa5;
+    color: #ffffff;
+    position: absolute;
+    text-align: center;
+    width:250px;
+    padding: 10px 0px 10px 0px;
+    height: 25px;
+    position: absolute;
 }
 
 #footer {
