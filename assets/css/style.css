@@ -47,7 +47,7 @@ div {
 
 }
 
-img {
+#bioPic {
     float: left;
     width: 256px;
     height: 300px;
@@ -87,6 +87,16 @@ p {
     background: #4aaaa5;
     padding: 10px 30px 10px 30px;
     width: 45px;
+}
+
+img {
+    width: 250px;
+    height: 200px;
+    float: left;
+}
+#picBanner {
+    background: #4aaaa5;
+    color: #ffffff;
 }
 
 #footer {
