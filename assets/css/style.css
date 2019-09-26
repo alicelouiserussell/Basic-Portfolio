@@ -89,14 +89,23 @@ p {
     width: 45px;
 }
 
-img {
+.portfolioPic {
     width: 250px;
     height: 200px;
+    padding: 40px 20px 20px 30px;
     float: left;
+    position: relative;
 }
-#picBanner {
+
+.picBanner {
+    position: absolute;
     background: #4aaaa5;
     color: #ffffff;
+    text-align: center;
+    width: 250px;
+    height: 25px;
+    margin-top: 180px;
+    padding: 10px 0px 10px 0px;
 }
 
 #footer {
